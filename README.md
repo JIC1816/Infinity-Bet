@@ -45,6 +45,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - [![Next][next.js]][next-url]
 - [![React][react.js]][react-url]
 - [![Bootstrap][bootstrap.com]][bootstrap-url]
+- ![OpenZeppelin-url]
+- ![Solidity-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,6 +203,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [bootstrap-url]: https://getbootstrap.com
 [jquery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [jquery-url]: https://jquery.com
+[OpenZeppelin-url]: https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge
+[Solidity-url]: https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black
 
 ```
 
