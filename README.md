@@ -109,20 +109,19 @@ _NOTA: Nuestra aplicación por el momento sólo funciona en Görli, ya que el or
 
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-  - [ ] Chinese
-  - [ ] Spanish
+- [x] Testear localmente el contrato con un resultado de la vida real.
+- [ ] Terminar la conexión del contrato con el front-end.
+- [ ] Lanzar la aplicación en Vercel y probar las funcionalidades del contrato.
+- [ ] Eliminar los mockups.
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+    
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribuir
 
 Estamos totalmente abiertos a cualquier tipo de feedback y contribución a nuestro proyecto. Si tenes alguna sugerencia que pueda mejorar nuestro proyecto, por favor forkea este repositorio y crea una pull request. También podes dejarnos un comentario creando un Issue con el tag "enhacement".
 
@@ -154,22 +153,7 @@ Link del proyecto: [https://github.com/JIC1816/Infinity-Bet](https://github.com/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
 
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-- [Malven's Grid Cheatsheet](https://grid.malven.co/)
-- [Img Shields](https://shields.io)
-- [GitHub Pages](https://pages.github.com)
-- [Font Awesome](https://fontawesome.com)
-- [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
