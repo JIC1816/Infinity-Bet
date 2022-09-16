@@ -78,7 +78,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ### Uso
 
-_NOTA: Nuestra aplicación por el momento sólo funciona en Görli, ya que el oráculo de EnetScore de Chainlink sólo se encuentra disponible para dicha red. Esto no implica que desconozcamos de la desventaja que implica para una aplicación de este tipo los altos costos de transacción en la blockchain de Ethereum_
+_NOTA: Nuestra aplicación por el momento sólo funciona en Görli, ya que el oráculo de EnetScore de Chainlink sólo se encuentra disponible para dicha red. Lo que no implica que desconozcamos la desventaja que implica para una aplicación de este tipo los altos costos de transacción en la blockchain de Ethereum_
 
 1. En primer lugar es necesario deployar los contratos del repositorio. Para facilidad del usuario, el script `deploy.js` luego de deployar los contratos, los verifica automáticamente en Etherscan. Gracias a ello, el usuario puede interactuar con el contrato directamente a través de Etherscan.
 2. Es importante resaltar que, por la utilización del nodo de Chainlink, además de Eth, es neceario contar con algo de Link para pagar a EnetScores el consumo de la información. En caso de necesitarse un faucet para hacerse de Eth y Link se puede acceder aquí: https://faucets.chain.link/goerli
