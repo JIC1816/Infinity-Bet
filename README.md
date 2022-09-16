@@ -147,7 +147,7 @@ Distribuido bajo la licencia de MIT. Veáse `LICENSE.txt` para más información
 <!-- CONTACT -->
 ## Contacto
 
-El equipo:  [@ElTirri2021](https://twitter.com/ElTirri2021), [@DarthVazquez](https://twitter.com/DarthVazquez)
+El equipo:  [@ElTirri2021](https://twitter.com/ElTirri2021), [@DarthVazquez](https://twitter.com/DarthVazquez), [@matsblockok](https://twitter.com/matsblockok)
 
 Link del proyecto: [https://github.com/JIC1816/Infinity-Bet](https://github.com/JIC1816/Infinity-Bet)
 
