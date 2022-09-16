@@ -120,37 +120,35 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Estamos totalmente abiertos a cualquier tipo de feedback y contribución a nuestro proyecto. Si tenes alguna sugerencia que pueda mejorar nuestro proyecto, por favor forkea este repositorio y crea una pull request. También podes dejarnos un comentario creando un Issue con el tag "enhacement".
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Forkea el proyecto
+2. Crea un branch con tu mejora (`git checkout -b feature/AmazingFeature`)
+3. Hace un commit de tus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. Pushea a la branch (`git push origin feature/AmazingFeature`)
+5. Abrí una pull request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
+
+<!-- LICENSE -->
 ## Licencia
 
 Distribuido bajo la licencia de MIT. Veáse `LICENSE.txt` para más información.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
 <!-- CONTACT -->
+## Contacto
 
-## Contact
+El equipo:  [@ElTirri2021](https://twitter.com/ElTirri2021), [@DarthVazquez](https://twitter.com/DarthVazquez)
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Link del proyecto: [https://github.com/JIC1816/Infinity-Bet](https://github.com/JIC1816/Infinity-Bet)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
