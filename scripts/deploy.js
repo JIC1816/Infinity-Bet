@@ -14,7 +14,8 @@ async function main() {
   const bearBetContract = await ethers.getContractFactory("superBetContract");
 
   const deployedBearBetContract = await bearBetContract.deploy(
-    tokenContractAddress
+    tokenContractAddress,
+    30
   );
 
   await deployedBearBetContract.deployed();
@@ -26,7 +27,7 @@ async function main() {
 
   await hre.run("verify:verify", {
     address: deployedBearBetContract.address,
-    constructorArguments: [tokenContractAddress],
+    constructorArguments: [tokenContractAddress, 30],
   });
 
   console.log("Sleeping.....");
