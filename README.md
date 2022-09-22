@@ -45,6 +45,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - [![Next][next.js]][next-url]
 - [![React][react.js]][react-url]
 - [![Bootstrap][bootstrap.com]][bootstrap-url]
+- ![OpenZeppelin-url]
+- ![Solidity-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,7 +80,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ### Uso
 
-_NOTA: Nuestra aplicación por el momento sólo funciona en Görli, ya que el oráculo de EnetScore de Chainlink sólo se encuentra disponible para dicha red. Esto no implica que desconozcamos de la desventaja que implica para una aplicación de este tipo los altos costos de transacción en la blockchain de Ethereum_
+_NOTA: Nuestra aplicación por el momento sólo funciona en Görli, ya que el oráculo de EnetScore de Chainlink sólo se encuentra disponible para dicha red. Lo que no implica que desconozcamos la desventaja que implica para una aplicación de este tipo los altos costos de transacción en la blockchain de Ethereum_
 
 1. En primer lugar es necesario deployar los contratos del repositorio. Para facilidad del usuario, el script `deploy.js` luego de deployar los contratos, los verifica automáticamente en Etherscan. Gracias a ello, el usuario puede interactuar con el contrato directamente a través de Etherscan.
 2. Es importante resaltar que, por la utilización del nodo de Chainlink, además de Eth, es neceario contar con algo de Link para pagar a EnetScores el consumo de la información. En caso de necesitarse un faucet para hacerse de Eth y Link se puede acceder aquí: https://faucets.chain.link/goerli
@@ -107,69 +109,51 @@ _NOTA: Nuestra aplicación por el momento sólo funciona en Görli, ya que el or
 
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-  - [ ] Chinese
-  - [ ] Spanish
+- [x] Testear localmente el contrato con un resultado de la vida real.
+- [ ] Terminar la conexión del contrato con el front-end.
+- [ ] Lanzar la aplicación en Vercel y probar las funcionalidades del contrato.
+- [ ] Eliminar los mockups.
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+    
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 <!-- CONTRIBUTING -->
+## Contribuir
 
-## Contributing
+Estamos totalmente abiertos a cualquier tipo de feedback y contribución a nuestro proyecto. Si tenes alguna sugerencia que pueda mejorar nuestro proyecto, por favor forkea este repositorio y crea una pull request. También podes dejarnos un comentario creando un Issue con el tag "enhacement".
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Forkea el proyecto
+2. Crea un branch con tu mejora (`git checkout -b feature/AmazingFeature`)
+3. Hace un commit de tus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. Pushea a la branch (`git push origin feature/AmazingFeature`)
+5. Abrí una pull request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
+
+<!-- LICENSE -->
 ## Licencia
 
 Distribuido bajo la licencia de MIT. Veáse `LICENSE.txt` para más información.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
 <!-- CONTACT -->
+## Contacto
 
-## Contact
+El equipo:  [@ElTirri2021](https://twitter.com/ElTirri2021), [@DarthVazquez](https://twitter.com/DarthVazquez), [@matsblockok](https://twitter.com/matsblockok)
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-- [Malven's Grid Cheatsheet](https://grid.malven.co/)
-- [Img Shields](https://shields.io)
-- [GitHub Pages](https://pages.github.com)
-- [Font Awesome](https://fontawesome.com)
-- [React Icons](https://react-icons.github.io/react-icons/search)
+Link del proyecto: [https://github.com/JIC1816/Infinity-Bet](https://github.com/JIC1816/Infinity-Bet)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -203,6 +187,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [bootstrap-url]: https://getbootstrap.com
 [jquery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [jquery-url]: https://jquery.com
+[OpenZeppelin-url]: https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge
+[Solidity-url]: https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black
 
 ```
 
